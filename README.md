@@ -22,7 +22,6 @@ Clone (or download) this repository to your computer and run the Jupyter Noteboo
 - Jupyter Notebook
 - NumPy
 - Matplotlib
-- heapq (for Dijkstra)
 - OpenCV (for Digital Image Processing)
 
 ## License
