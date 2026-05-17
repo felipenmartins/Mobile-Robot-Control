@@ -5,11 +5,12 @@ These Jupyter Notebooks are intended to support the learning of basic concepts o
 The notebooks can be used as support material for the [Robotics Simulation Labs](https://felipenmartins.github.io/Robotics-Simulation-Labs/) without the need of installing Webots. They can be useful to understand the fundamentals of the corresponding topic, especially because they allow step-by-step execution and experimentation of the implemented functions.
 
 ## Content
-- [Implementation of simple robot behaviors](robot_behaviors.ipynb) for mobile robot control (related to [Simulation Lab 2](https://felipenmartins.github.io/Robotics-Simulation-Labs/Lab2/))
-- [Odometry-based Localization](odometry-based_localization.ipynb) for the differential-drive robot (related to [Simulation Lab 3](https://felipenmartins.github.io/Robotics-Simulation-Labs/Lab3/))
-- [Mobile Robot Control with PID](robot_control_with_PID.ipynb) for a go-to-goal moving controller (related to [Simulation Lab 4](https://felipenmartins.github.io/Robotics-Simulation-Labs/Lab4/))
-- [Dijkstra's Algorithm](path_planning_dijkstra.ipynb) for Robotic Path Planning (related to [Simulation Lab 7](https://felipenmartins.github.io/Robotics-Simulation-Labs/Lab7/))
-- [Digital Image Processing](image_processing_example.ipynb) - fundamentals and basic functions 
+- [Implementation of simple robot behaviors](robot_behaviors.ipynb) for mobile robot control (related to [Robotics Simulation Lab 2](https://felipenmartins.github.io/Robotics-Simulation-Labs/Lab2/))
+- [Digital Image Processing](image_processing_example.ipynb) - fundamentals and basic functions (related to [Robotics Simulation Lab 3](https://felipenmartins.github.io/Robotics-Simulation-Labs/Lab3/))
+- [Odometry-based Localization](odometry-based_localization.ipynb) for the differential-drive robot (related to [Robotics Simulation Lab 4](https://felipenmartins.github.io/Robotics-Simulation-Labs/Lab4/))
+- [Mobile Robot Control with PID](robot_control_with_PID.ipynb) for a go-to-goal moving controller (related to [Robotics Simulation Lab 5](https://felipenmartins.github.io/Robotics-Simulation-Labs/Lab5/))
+- [Dijkstra's Algorithm](path_planning_dijkstra.ipynb) for Robotic Path Planning (related to [Robotics Simulation Lab 9](https://felipenmartins.github.io/Robotics-Simulation-Labs/Lab9/))
+
 
 
 ## How to use
